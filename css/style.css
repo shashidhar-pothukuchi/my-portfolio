@@ -67,6 +67,18 @@ a {
     transition: opacity 0.3s ease-out;
 }
 
+.i-top{
+    margin: 0%;
+    padding: 0%;
+}
+
+.leetcode-icon{
+   background: url('../images/leetcode.svg') no-repeat;
+   width: 25px;
+   height:25px;
+   display:block;
+}
+
 iframe {
     border: 0 !important;
 }
