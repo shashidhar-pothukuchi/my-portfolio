@@ -79,6 +79,10 @@ a {
    display:block;
 }
 
+.icon i{
+    padding-right: 10px;
+}
+
 iframe {
     border: 0 !important;
 }
@@ -190,6 +194,10 @@ input:focus, textarea:focus {
 /*------------------------------------------------------------------------------------------*/
 /* 2. Layout Elements */
 /*------------------------------------------------------------------------------------------*/
+
+.right-side{
+    text-align: start;
+}
 
 section {
     clear: both;
